@@ -1,0 +1,9 @@
+#download manifest	
+
+file: vgsalesGlobale.csv
+url: https://data.world/julienf/video-games-global-sales-in-volume-1983-2017/workspace/file?filename=vgsalesGlobale.csv
+date: 2018-05-19
+
+file: result.csv
+url: https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000
+date: 2018-12-02 12:58
